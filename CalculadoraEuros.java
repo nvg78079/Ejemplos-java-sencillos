@@ -14,5 +14,6 @@ public class CalculadoraEuros {
 		else System.out.printf("Tu dinero en Euros serian: %.2f",n*C);
 		teclado.close();
 	}
-
+	// Aqui añadimos este comentario para ver si se actualiza correctamente el contenido
+	// Rezemos para que todo salga bien
 }
